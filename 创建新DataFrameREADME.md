@@ -5,7 +5,7 @@ from pandas import DataFrame,Series
 #people={'Sarah','Mike','Chrisna'}
 #ages=[28,32,25]
 #df=DataFrame({'name':Series(people),
-               'age':Series(ages)})
+#               'age':Series(ages)})
 def create_dataframe():
     '''
     create a pandas dataframe called 'olympic_medal_counts_df' containing the data from the table of 2014 Sochi winter olympics 
