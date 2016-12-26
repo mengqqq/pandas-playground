@@ -31,4 +31,36 @@ def numpy_dot():
     
     olympic_points={'country_name':Series(countries),
                     'points':Series(points)}
-    olympic_points_df=DataFramen(olympic_points)
+    olympic_points_df=DataFrame(olympic_points)
+
+
+Good job! Your code worked perfectly.
+Output by your program below.
+
+      country_name  points
+0     Russian Fed.      83
+1           Norway      64
+2           Canada      65
+3    United States      62
+4      Netherlands      55
+5          Germany      49
+6      Switzerland      32
+7          Belarus      21
+8          Austria      37
+9           France      31
+10          Poland      19
+11           China      22
+12           Korea      20
+13          Sweden      28
+14  Czech Republic      18
+15        Slovenia      16
+16           Japan      15
+17         Finland      11
+18   Great Britain       8
+19         Ukraine       5
+20        Slovakia       4
+21           Italy      10
+22          Latvia       6
+23       Australia       5
+24         Croatia       2
+25      Kazakhstan       1
