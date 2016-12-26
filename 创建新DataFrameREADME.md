@@ -27,3 +27,38 @@ def create_dataframe():
     olympic_medal_counts_df=DataFrame(olympic_medal_counts)
     print(olympic_medal_counts_df)
     return olympic_medal_counts_df
+
+
+
+output
+  bronze    country_name  gold  silver
+0        9    Russian Fed.    13      11
+1       10          Norway    11       5
+2        5          Canada    10      10
+3       12   United States     9       7
+4        9     Netherlands     8       7
+5        5         Germany     8       6
+6        2     Switzerland     6       3
+7        1         Belarus     5       0
+8        5         Austria     4       8
+9        7          France     4       4
+10       1          Poland     4       1
+11       2           China     3       4
+12       2           Korea     3       3
+13       6          Sweden     2       7
+14       2  Czech Republic     2       4
+15       4        Slovenia     2       2
+16       3           Japan     1       4
+17       1         Finland     1       3
+18       2   Great Britain     1       1
+19       1         Ukraine     1       0
+20       0        Slovakia     1       0
+21       6           Italy     0       2
+22       2          Latvia     0       2
+23       1       Australia     0       2
+24       0         Croatia     0       1
+25       1      Kazakhstan     0       0
+Good job! Your code worked perfectly.
+Output by your program below.
+
+ 
