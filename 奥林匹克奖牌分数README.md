@@ -10,6 +10,7 @@ def numpy_dot():
         b)a column called 'points' with the total number of points the country earned at the Sochi olympics
     You do not need to call the function in your code when running it in the browser-the grader will do that automatically when you 
     submit or test it.
+    '''
     countries=['Russian Fed.','Norway','Canda','United States',
                'Netherlands','Germany','Switzerland','Belarus',
                'Austria','France','Poland','China','Korea',
