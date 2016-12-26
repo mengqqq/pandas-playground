@@ -24,7 +24,7 @@ def numpy_dot():
                           'gold':Series(gold),
                           'silver':Series(silver),
                           'bronze':Series(bronze)}
-    olympic_medal_counts_df=DataFramen(olympic_medal_counts)
+    olympic_medal_counts_df=DataFrame(olympic_medal_counts)
     points=numpy.dot(medal_counts,[4,2,1])
     olympic_points={'country_name':Series(countries),
                     'points':Series(points)}
